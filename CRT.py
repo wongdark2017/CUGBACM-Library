@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Date : 2019-08-17 12:43:01
+
  
 import os
  
